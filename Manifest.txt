@@ -1,0 +1,29 @@
+Manifest of files:
+\Introduction to the Tier Protocol (v. 3.0) demo project. 2017-07-11.docx
+\Readme.txt
+\Manifest.txt
+
+\Analysis-Data\
+
+\Command-Files\
+\Command-Files\1-import-wdi.do
+\Command-Files\2-import-pew.do
+\Command-Files\3-processing.do
+\Command-Files\4-data-appendix.do
+\Command-Files\5-analysis.do
+
+\Documents\
+\Documents\1-Readme.docx
+\Documents\1-Readme.pdf
+\Documents\2-Midlife-Crisis-Paper.pdf
+\Documents\3-data-appendix.docx
+\Documents\3-data-appendix.pdf
+
+\Original-Data\
+\Original-Data\importable-pew.dta
+\Original-Data\original-pew.sav
+\Original-Data\original-pew.xlsx
+
+\Original-Data\z-Metadata\
+\Original-Data\z-Metadata\1-metadata-guide.pdf
+\Original-Data\z-Metadata\2-Pew-GAP-Survey-details 1.1.pdf
