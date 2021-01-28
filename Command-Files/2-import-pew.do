@@ -3,7 +3,7 @@ Created by Richard Ball
 This version:  2017-07-011
 Written for Stata 14--SE, 64-bit, for Windows
 */
-
+Hello
 /*WHEN THIS DO-FILE IS RUN, STATA'S WORKING DIRECTORY 
 SHOULD BE SET TO THE "Command-Files" FOLDER. */
 
