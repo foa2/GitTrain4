@@ -3,6 +3,7 @@ Created by Richard Ball
 This version:  2017-07-11
 Written for Stata 14--SE, 64-bit, for Windows
 */
+Jacob addition
 
 
 /*WHEN THIS DO-FILE IS RUN, STATA'S WORKING DIRECTORY 
